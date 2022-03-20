@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Saurabh/Desktop/IndiLive/app/src/main/res/drawable/card.xml" value="0.1245" />
+        <entry key="..\:/Users/Saurabh/Desktop/IndiLive/app/src/main/res/drawable/custom_oval.xml" value="0.1245" />
+        <entry key="..\:/Users/Saurabh/Desktop/IndiLive/app/src/main/res/drawable/custom_oval_rec.xml" value="0.1245" />
+        <entry key="..\:/Users/Saurabh/Desktop/IndiLive/app/src/main/res/drawable/custom_oval_rec_right.xml" value="0.1245" />
+        <entry key="..\:/Users/Saurabh/Desktop/IndiLive/app/src/main/res/drawable/gradient.xml" value="0.1245" />
+        <entry key="..\:/Users/Saurabh/Desktop/IndiLive/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1245" />
+        <entry key="..\:/Users/Saurabh/Desktop/IndiLive/app/src/main/res/drawable/rectangle_border.xml" value="0.1245" />
+        <entry key="..\:/Users/Saurabh/Desktop/IndiLive/app/src/main/res/drawable/round_arrow_forward_24.xml" value="0.1245" />
+        <entry key="..\:/Users/Saurabh/Desktop/IndiLive/app/src/main/res/layout/activity_example.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Saurabh/Desktop/IndiLive/app/src/main/res/layout/activity_home.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Saurabh/Desktop/IndiLive/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Saurabh/Desktop/IndiLive/app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="..\:/Users/Saurabh/Desktop/IndiLive/app/src/main/res/layout/fastscroll__default_bubble.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Saurabh/Desktop/IndiLive/app/src/main/res/layout/fragment_country_preference.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Saurabh/Desktop/IndiLive/app/src/main/res/layout/fragment_full_number.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Saurabh/Desktop/IndiLive/app/src/main/res/layout/fragment_home.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Saurabh/Desktop/IndiLive/app/src/main/res/layout/layout_voice_room.xml" value="0.17074275362318841" />
+        <entry key="app/src/main/res/drawable/custom_oval_rec.xml" value="0.345" />
+        <entry key="app/src/main/res/layout/layout_voice_room.xml" value="0.3020833333333333" />
+        <entry key="app/src/main/res/layout/test.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
